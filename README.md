@@ -1,2 +1,3 @@
 # quarkus-hello-world-deployment
-Tekton pipelines demo repository
+Tekton/ArgoCD pipelines demo repository.
+Here we store deployment configuration.
