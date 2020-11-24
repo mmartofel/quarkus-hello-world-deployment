@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/traffic/-
+  value:
+    tag: r03533bc
+    revisionName: quarkus-hello-world-r03533bc
