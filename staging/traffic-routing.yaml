@@ -3,5 +3,5 @@
   value:
     - revisionName: quarkus-hello-world-r6515289
       percent: 50
-    - revisionName: quarkus-hello-world-rdf5fdb2
+    - revisionName: quarkus-hello-world-r32e91a2
       percent: 50
